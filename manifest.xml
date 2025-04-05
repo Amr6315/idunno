@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
     <app appid="dbcbanhmioenahhdpaeobgegeefddnpf">
-        <updatecheck codebase="https://raw.githubusercontent.com/Amr6315/idunno/main/0.5.3_0.crx" version="0.0.1"/>
+        <updatecheck codebase="https://raw.githubusercontent.com/Amr6315/idunno/main/0.5.3_0.crx" version="0.5.3"/>
     </app>
 </gupdate>
